@@ -10,7 +10,7 @@ Selector {
  **********************************************************************/
 
 @font-face{
-    font-family: "Calibri";
+    font-family: Calibri;
     src: url('https://github.com/joshuachinys/danieldibraw/tree/master/font-files/Calibri.ttf');
 }
 
