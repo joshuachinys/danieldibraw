@@ -11,8 +11,8 @@ Selector {
 
 @font-face{
     font-family: "Calibri";
-    src: url('./font-files/Calibri.ttf');
-} 
+    src: url('https://github.com/joshuachinys/danieldibraw/tree/master/font-files/Calibri.ttf');
+}
 
 body {
 	overflow: hidden;
