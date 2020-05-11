@@ -11,7 +11,7 @@ Selector {
 
 @font-face{
     font-family: "Calibri";
-    src: url('./font-files/Calibri.ttf'),
+    src: url('./font-files/Calibri.ttf');
 } 
 
 body {
