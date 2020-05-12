@@ -9,15 +9,10 @@ Selector {
  *  To ensure contents do not overflow outside of container
  **********************************************************************/
 
-@font-face{
-    font-family: Calibri;
-    src: url('../font-files/Calibri.ttf');
-}
-
 body {
 	overflow: hidden;
 	margin: auto;
-	font-family: Calibri;
+	font-family: "Arial";
 }
 
 .list1{
@@ -105,8 +100,8 @@ h1 {
 
 .box {
     background-color: #fff;
-    padding: 10px;
-    margin: 5px;
+    padding: 2px;
+    margin: 2px;
 	font-size: .8rem;
 	color: #444;
 }
