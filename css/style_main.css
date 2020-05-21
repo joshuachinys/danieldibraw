@@ -108,7 +108,8 @@ h1 {
     background-color: #fff;
     padding: 2px;
     margin: 2px;
-	font-size: .8rem;
+	font-size: .75rem;
+	text-align: center;
 	color: #444;
 }
  
